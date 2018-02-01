@@ -36,6 +36,7 @@
   },
   "dependencies": {
     "astronode-plugin": "^1.0.0",
+    "astronode-utils": "^0.3.0",
     "lodash": "^4.17.4",
     "mongoose": "^5.0.1"
   }
