@@ -35,7 +35,7 @@
     "jest": "^22.1.4"
   },
   "dependencies": {
-    "astronode-plugin": "^1.0.0",
+    "astronode-plugin": "^1.1.0",
     "astronode-utils": "^0.3.0",
     "lodash": "^4.17.4",
     "mongoose": "^5.0.1"
